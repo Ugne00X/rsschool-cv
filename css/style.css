@@ -1,1 +1,8 @@
-test
+ .header {
+    font-size: 18px;
+    color:gray
+    }
+
+body{
+    background-color:cornsilk;
+}    
