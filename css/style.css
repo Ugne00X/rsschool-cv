@@ -1,13 +1,43 @@
- .header {
-    font-size: 18px;
-    color:gray
- }
+* {
+    box-sizing: border-box;
+  }
+
+  .nav-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    list-style: none;
+}
+
+.nav-link {
+    padding: 10px;
+    line-height: 50px;
+
+    color: gray;
+    text-decoration: none;
+    white-space: nowrap;
+  }
 
 body{
     background-color:cornsilk;
 }  
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    
+ }
+
+  .header {
+    font-size: 18px;
+    color:gray
+ }
 
 .avatar {
     width: 200px;
     height: 200px;
+}
+
+header {
+   
 }
