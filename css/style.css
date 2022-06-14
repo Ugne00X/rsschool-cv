@@ -11,33 +11,74 @@
 }
 
 .nav-link {
-    padding: 10px;
+    padding: 20px;
     line-height: 50px;
 
-    color: gray;
+    color:rgb(102, 100, 100);
     text-decoration: none;
     white-space: nowrap;
-  }
+}
 
+.nav-link-git {
+    padding: 0px;
+    line-height: 0px;
+
+    color: rgb(102, 100, 100);
+    text-decoration: none;
+    font-weight: bold;
+    white-space: nowrap;
+}
 body{
-    background-color:cornsilk;
-}  
+    
+  }  
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+   }
+
+.section {
+   width: 50%;
+ }
+
 .container {
     max-width: 1440px;
     margin: 0 auto;
-    
- }
+  }
+
+  #profile {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding: 50px 100px 30px;
+    border-bottom: 3px dotted rgb(102, 100, 100);
+   
+}
+
+.profile-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  }
 
   .header {
     font-size: 18px;
-    color:gray
+    color:rgb(102, 100, 100)
  }
 
 .avatar {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
 }
 
-header {
-   
-}
+  @media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+
+  
+ 
