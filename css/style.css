@@ -1,8 +1,13 @@
  .header {
     font-size: 18px;
     color:gray
-    }
+ }
 
 body{
     background-color:cornsilk;
-}    
+}  
+
+.avatar {
+    width: 200px;
+    height: 200px;
+}
