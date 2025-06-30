@@ -15,7 +15,7 @@ I like to set obstacles for myself and then courageously overcome it.
 
 ### Education:
 - **University:**
- - Semipalatinsk State University (pedagogical institute); primary school teacher
+  - Semipalatinsk State University (pedagogical institute); primary school teacher
 - **Courses:**
   - "Cartoon Creator" from "Animo" animation school (completed)
   - «JavaScript/Front-end. Stage 0» from RS Schools (in progress)
