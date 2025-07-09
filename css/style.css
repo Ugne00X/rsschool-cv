@@ -88,11 +88,6 @@ body {
    padding: 0 15px;
  }
 
-.avatar {
-  width: 150px;
-  height: 150px;
-}
-
 .section-profile {
   display: flex;
   justify-content: space-around;
@@ -141,10 +136,6 @@ footer {
 .pattern-down{
   padding: 0 0 20px;
   }
-
-/*.logo-img {
-   width: 100%;
-  } */
 
 .code {
   font-size: 1rem;
