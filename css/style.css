@@ -17,7 +17,7 @@ body {
   width: 100%;
   margin: 0 auto;
   padding: 0 100px 15px;
-  background-color: cornsilk
+  background-color: #e3e3fd;
 }
 
 .link-contacts, .link-footer, .cv {
@@ -114,7 +114,7 @@ body {
 
 footer {
   width: 100%;
-  background-color: cornsilk;
+  background-color: #e3e3fd;
 }
 
 .footer {
